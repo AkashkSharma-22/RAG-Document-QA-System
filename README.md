@@ -118,17 +118,6 @@ RAG-Document-QA-System/
 └── README.md            # Project documentation
 ```
 
----
-
-## 🖼️ Screenshots
-
-| Upload & Processing | Chat Interface |
-| :---: | :---: |
-| ![Upload Placeholder](https://via.placeholder.com/400x250?text=Upload+Interface) | ![Chat Placeholder](https://via.placeholder.com/400x250?text=Chat+Interface) |
-
-*(Note: Replace these placeholders with actual screenshots of your running app)*
-
----
 
 ## 🚀 Future Improvements
 
@@ -157,4 +146,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Developed with ❤️ by [Akash Sharma](https://github.com/AkashkSharma-22)**
+
